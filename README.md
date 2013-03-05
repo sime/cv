@@ -1,9 +1,16 @@
 Simon Males
 ===========
 
-Web builder guy.
+Web builder guy
+---------------
+I'm a web developer with system administration roots. I have industry experience in online publishing, E-commerce and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practises sprinkled with a little culture. You can find me developing on the LAMP stack as well as Ruby on Rails and Sinatra. Approachable for cross team communications.
 
 Location: Singapore
+
+LinkedIn: [http://sg.linkedin.com/in/simonmales/](http://sg.linkedin.com/in/simonmales/)
+
+Personal: [http://sime.net.au/](http://sime.net.au)
+
 
 Tertiary Education
 ------------------
