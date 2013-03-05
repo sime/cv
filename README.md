@@ -97,7 +97,7 @@ Other/Personal
 
 High interest in various open source software projects. Including Mozilla, Ogg Vorbis, Jabber, The GIMP and Drupal. Participation in such projects includes: running and testing various versions of pre-releases (nightly builds/alpha/beta/release candidates) software; filing bug reports, tracking bug progression and offering suggestions where adequate; involvement with online discussions and offering support.
 
-My first code contribution to open source was to the Drupal 'Image' module. With guidance from the maintainer I added a trivial [configuration option](http://drupal.org/commitlog/commit/78/be4f77d0a68424348591cde27f371253a8b755fc). Since then I provided a [number of fixes](https://github.com/cakephp/cakephp/commits/master?author=sime) to CakePHP core.
+My first code contribution to open source was to the Drupal 'Image' module. With guidance from the maintainer I added a trivial [configuration option](http://drupal.org/commitlog/commit/78/be4f77d0a68424348591cde27f371253a8b755fc). Since then I have provided a [number of fixes](https://github.com/cakephp/cakephp/commits/master?author=sime) to CakePHP core.
 
 In the Ninth Edition of LinMagAu (November 2003), I wrote a brief article on two The GIMP (an image manipulation program) features, dynamic shortcuts and 'Autocrop'. LinMagAu was an online Australian Linux/Open Source Magazine which has since stopped publishing.
 
