@@ -22,6 +22,7 @@ Platform Engineer for Pollenizer
 * Practise lean startup methodologies
 * Relocated to Singapore in October 2012
 * Using CakePHP (2012) and Ruby on Rails (2013) frameworks
+* Linux System Administration for existing Pollenizer resources
 
 October 2010 - December 2011
 Web Developer for Buyinvite
@@ -37,6 +38,7 @@ Web Developer for Loaded Technologies
 
 * LAMP supports and development
 * Support, maintaining and upgrading both internal and client SugarCRM installations
+* Client requirements gathering
 
 November 2006 – June 2010
 Web Support Developer for Independent Digital Media
