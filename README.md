@@ -11,33 +11,6 @@ LinkedIn: [http://sg.linkedin.com/in/simonmales/](http://sg.linkedin.com/in/simo
 
 Personal: [http://sime.net.au/](http://sime.net.au)
 
-
-Tertiary Education
-------------------
-2008
-MySQL for Database Administrators, Cliftons, MySQL Training
-
-2007
-PHP Scripting and MySQL, NewSouth Global, Learn4Life
-
-2006
-Linux Professional Institute Certified Level 1 (LPIC-1)
-
-2003 – 2005
-Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
-
-2003
-CCNA Academy Program (Cisco Certified Network Associate), University of Wollongong Cisco Networking Academy.
-
-2002
-Diploma of Information Technology, Wollongong University College.
-
-Secondary
----------
-
-2001
-Higher School Certificate, Newington College, Stanmore.
-
 Work History
 ------------
 
@@ -98,6 +71,33 @@ Information Technology Support,  Oatley Electronics
 * Internal IT advisory as well as online auction coordination
 * Product packaging and transport logistics
 * Office and administration duties, including data entry and order processing
+
+Tertiary Education
+------------------
+2008
+MySQL for Database Administrators, Cliftons, MySQL Training
+
+2007
+PHP Scripting and MySQL, NewSouth Global, Learn4Life
+
+2006
+Linux Professional Institute Certified Level 1 (LPIC-1)
+
+2003 – 2005
+Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
+
+2003
+CCNA Academy Program (Cisco Certified Network Associate), University of Wollongong Cisco Networking Academy.
+
+2002
+Diploma of Information Technology, Wollongong University College.
+
+Secondary
+---------
+
+2001
+Higher School Certificate, Newington College, Stanmore.
+
 
 Other/Personal
 --------------
