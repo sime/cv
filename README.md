@@ -72,8 +72,9 @@ Information Technology Support,  Oatley Electronics
 * Product packaging and transport logistics
 * Office and administration duties, including data entry and order processing
 
-Tertiary Education
-------------------
+Education
+---------
+### Tertiary
 2008
 MySQL for Database Administrators, Cliftons, MySQL Training
 
@@ -92,8 +93,7 @@ CCNA Academy Program (Cisco Certified Network Associate), University of Wollongo
 2002
 Diploma of Information Technology, Wollongong University College.
 
-Secondary
----------
+### Secondary
 
 2001
 Higher School Certificate, Newington College, Stanmore.
@@ -101,11 +101,7 @@ Higher School Certificate, Newington College, Stanmore.
 
 Other/Personal
 --------------
+* [CakePHP core contributions](https://github.com/cakephp/cakephp/commits/master?author=sime)
+* Represent Australia in Beach Volleyball at the Croatian World Games.
+* Rock climbing
 
-High interest in various open source software projects. Including Mozilla, Ogg Vorbis, Jabber, The GIMP and Drupal. Participation in such projects includes: running and testing various versions of pre-releases (nightly builds/alpha/beta/release candidates) software; filing bug reports, tracking bug progression and offering suggestions where adequate; involvement with online discussions and offering support.
-
-My first code contribution to open source was to the Drupal 'Image' module. With guidance from the maintainer I added a trivial [configuration option](http://drupal.org/commitlog/commit/78/be4f77d0a68424348591cde27f371253a8b755fc). Since then I have provided a [number of fixes](https://github.com/cakephp/cakephp/commits/master?author=sime) to CakePHP core.
-
-In the Ninth Edition of LinMagAu (November 2003), I wrote a brief article on two The GIMP (an image manipulation program) features, dynamic shortcuts and 'Autocrop'. LinMagAu was an online Australian Linux/Open Source Magazine which has since stopped publishing.
-
-In 2007 I started competing in a beach volleyball league in Sydney and continue to play today. Since late 2009 I regularly compete in the Northern Beaches Volleyball Association tournaments which I thoroughly enjoy. In July (2010) I represented Australia in Beach Volleyball at the Croatian World Games, where athletes of Croatian heritage from around the world compete in an Olympic style event.
