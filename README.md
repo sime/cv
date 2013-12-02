@@ -14,7 +14,7 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
-January 2012 - Current
+January 2012 - March 2013
 Platform Engineer for Pollenizer
 
 * Developer and CTO for Coachy, Tiwala, Accruto start-ups
