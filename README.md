@@ -14,6 +14,15 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
+April 2013 - September 2013
+Web Developer for Stealth mode eCommerce Company
+
+* Developing front and backend systems using Foundation and CakePHP respectively.
+* Converting requirements to Gherkin for BDD and CI with Travis CI.
+* Responsive CSS for three widths: 320px, 768px and 1024px.
+* Handlebars.js for templating real time calculations during checkout.
+* Automated deployments with Capistrano
+
 January 2012 - March 2013
 Platform Engineer for Pollenizer
 
