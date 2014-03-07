@@ -14,7 +14,7 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
-December 2013 - Current
+### December 2013 - Current
 Senior Web Developer for Tinkerbox Studios
 
 * AJAX compatible site scraper
@@ -25,12 +25,12 @@ Senior Web Developer for Tinkerbox Studios
 * Google Analytics Event tracking for conversion analysis
 
 
-November 2013 - December 2013
+### November 2013 - December 2013
 Founder for 135App
 
 * PhoneGap and AngularJS development
 
-April 2013 - September 2013
+### April 2013 - September 2013
 Web Developer for Stealth mode eCommerce Company
 
 * Developing front and backend systems using Foundation and CakePHP respectively.
@@ -39,7 +39,7 @@ Web Developer for Stealth mode eCommerce Company
 * Handlebars.js for templating real time calculations during checkout.
 * Automated deployments with Capistrano
 
-January 2012 - March 2013
+### January 2012 - March 2013
 Platform Engineer for Pollenizer
 
 * Developer and CTO for Coachy, Tiwala, Accruto start-ups
@@ -49,7 +49,7 @@ Platform Engineer for Pollenizer
 * Using CakePHP (2012) and Ruby on Rails (2013) frameworks
 * Linux System Administration for existing Pollenizer resources
 
-October 2010 - December 2011
+### October 2010 - December 2011
 Web Developer for Buyinvite
 
 * CakePHP development of high transacting eCommerce site
@@ -58,14 +58,14 @@ Web Developer for Buyinvite
 * Reducing page load times
 * MySQL query tuning
 
-June 2010 - October 2010
+### June 2010 - October 2010
 Web Developer for Loaded Technologies
 
 * LAMP supports and development
 * Support, maintaining and upgrading both internal and client SugarCRM installations
 * Client requirements gathering
 
-November 2006 – June 2010
+### November 2006 – June 2010
 Web Support Developer for Independent Digital Media
 
 * Developing and supporting PHP sites: homehound.com.au, PRIMPED and The Knot Australia (Rails)
@@ -76,7 +76,7 @@ Web Support Developer for Independent Digital Media
 * Maintaining data import processes, both CSV and XML
 * Implementing and trafficking campaigns through Open AdStream (24/7 RealMedia)
 
-September 2005 – June 2006
+### September 2005 – June 2006
 Technical Support Consultant for Creative Computing
 
 * Successfully deploy and maintain Linux based Point-Of-Sale servers and clients
@@ -84,14 +84,14 @@ Technical Support Consultant for Creative Computing
 * Remote configuration of services such as Samba, CUPS and Postfix
 * Support internally developed accountancy package
 
-February 2004 – January 2006 (casual employment)
+### February 2004 – January 2006 (casual employment)
 Customer Service Representative for DigiPlus
 
 * Assist customers with enquires (whilst speaking both English and Croatian)
 * Pro-active call handling, escalated calls and training new employees
 * Second level technical support (Internet Helpdesk)
 
-February 2002 – June 2003 (casual employment)
+### February 2002 – June 2003 (casual employment)
 Information Technology Support,  Oatley Electronics
 
 * Customer liaison (including sales)
