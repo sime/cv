@@ -14,6 +14,22 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
+December 2013 - Current
+Senior Web Developer for Tinkerbox Studios
+
+* AJAX compatible site scraper
+* Migrate MongoDB Arrays into Collections
+* Deploy MongoDB indexes
+* Implement clean URLs for SEO
+* Reduced assets file size to increase page speed
+* Google Analytics Event tracking for conversion analysis
+
+
+November 2013 - December 2013
+Founder for 135App
+
+* PhoneGap and AngularJS development
+
 April 2013 - September 2013
 Web Developer for Stealth mode eCommerce Company
 
