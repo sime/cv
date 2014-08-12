@@ -14,12 +14,12 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
-### December 2013 - Current
+### December 2013 - April 2014
 Senior Web Developer for Tinkerbox Studios
 
+* TDD with RSpec
 * AJAX compatible site scraper
-* Migrate MongoDB Arrays into Collections
-* Deploy MongoDB indexes
+* Migrate MongoDB Arrays into Collections, and deploy MongoDB indexes
 * Implement clean URLs for SEO
 * Reduced assets file size to increase page speed
 * Google Analytics Event tracking for conversion analysis
