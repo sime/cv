@@ -7,7 +7,7 @@ I'm a web developer with system administration roots. I have industry experience
 
 Location: Berlin, Germany
 
-LinkedIn: [http://sg.linkedin.com/in/simonmales/](http://sg.linkedin.com/in/simonmales/)
+LinkedIn: [https://www.linkedin.com/in/simonmales/](https://www.linkedin.com/in/simonmales/)
 
 Personal: [http://sime.net.au/](http://sime.net.au)
 
