@@ -5,7 +5,7 @@ Business Savvy Web Developer
 ----------------------------
 I'm a web developer with system administration roots. I have industry experience in online publishing, E-commerce and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practises sprinkled with a little culture. You can find me developing on the LAMP stack as well as Ruby on Rails and Sinatra. Lately I have been diving into front end development such as Foundation, AngularJS and PhoneGap. Lastly, I am approachable for cross team communications.
 
-Location: Singapore
+Location: Berlin, Germany
 
 LinkedIn: [http://sg.linkedin.com/in/simonmales/](http://sg.linkedin.com/in/simonmales/)
 
@@ -92,7 +92,7 @@ Customer Service Representative for DigiPlus
 * Second level technical support (Internet Helpdesk)
 
 ### February 2002 – June 2003 (casual employment)
-Information Technology Support,  Oatley Electronics
+Information Technology Support for Oatley Electronics
 
 * Customer liaison (including sales)
 * Internal IT advisory as well as online auction coordination
@@ -128,7 +128,9 @@ Higher School Certificate, Newington College, Stanmore.
 
 Other/Personal
 --------------
-* [CakePHP core contributions](https://github.com/cakephp/cakephp/commits/master?author=sime)
+* [CakePHP contributions](https://github.com/cakephp/cakephp/commits/master?author=sime)
+* [Foundation contributions](https://github.com/zurb/foundation/commits/master?author=sime)
+* Following developments and investing in Bitcoin
 * Represent Australia in Beach Volleyball at the Croatian World Games.
 * Rock climbing
 
