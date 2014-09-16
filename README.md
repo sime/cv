@@ -111,14 +111,11 @@ PHP Scripting and MySQL, NewSouth Global, Learn4Life
 2006
 Linux Professional Institute Certified Level 1 (LPIC-1)
 
-2003 – 2005
-Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
-
 2003
 CCNA Academy Program (Cisco Certified Network Associate), University of Wollongong Cisco Networking Academy.
 
-2002
-Diploma of Information Technology, Wollongong University College.
+2002 – 2005
+Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
 
 ### Secondary
 
