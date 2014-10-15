@@ -15,7 +15,7 @@ Work History
 ------------
 
 ### December 2013 - April 2014
-Senior Web Developer for Tinkerbox Studios
+Senior Web Developer for Tinkerbox Studios, Singapore
 
 * TDD with RSpec
 * AJAX compatible site scraper
@@ -26,12 +26,12 @@ Senior Web Developer for Tinkerbox Studios
 
 
 ### November 2013 - December 2013
-Founder for 135App
+Founder for 135App, Singapore
 
 * PhoneGap and AngularJS development
 
 ### April 2013 - September 2013
-Web Developer for Stealth mode eCommerce Company
+Web Developer for Stealth mode eCommerce Company, Singapore
 
 * Developing front and backend systems using Foundation and CakePHP respectively.
 * Converting requirements to Gherkin for BDD and CI with Travis CI.
@@ -40,7 +40,7 @@ Web Developer for Stealth mode eCommerce Company
 * Automated deployments with Capistrano
 
 ### January 2012 - March 2013
-Platform Engineer for Pollenizer
+Platform Engineer for Pollenizer, Sydney and Singapore
 
 * Developer and CTO for Coachy, Tiwala, Accruto start-ups
 * Developing from Product Manager provided scenarios
@@ -50,7 +50,7 @@ Platform Engineer for Pollenizer
 * Linux System Administration for existing Pollenizer resources
 
 ### October 2010 - December 2011
-Web Developer for Buyinvite
+Web Developer for Buyinvite, Sydney
 
 * CakePHP development of high transacting eCommerce site
 * Resolving process inefficiencies by directly coworking with all departments
@@ -59,14 +59,14 @@ Web Developer for Buyinvite
 * MySQL query tuning
 
 ### June 2010 - October 2010
-Web Developer for Loaded Technologies
+Web Developer for Loaded Technologies, Sydney
 
 * LAMP supports and development
 * Support, maintaining and upgrading both internal and client SugarCRM installations
 * Client requirements gathering
 
 ### November 2006 – June 2010
-Web Support Developer for Independent Digital Media
+Web Support Developer for Independent Digital Media, Sydney
 
 * Developing and supporting PHP sites: homehound.com.au, PRIMPED and The Knot Australia (Rails)
 * Formatting HTML newsletters for web based and desktop clients managed by Traction
@@ -77,7 +77,7 @@ Web Support Developer for Independent Digital Media
 * Implementing and trafficking campaigns through Open AdStream (24/7 RealMedia)
 
 ### September 2005 – June 2006
-Technical Support Consultant for Creative Computing
+Technical Support Consultant for Creative Computing, Sydney
 
 * Successfully deploy and maintain Linux based Point-Of-Sale servers and clients
 * Establish pre-sale relationships with clients prior to deployment
@@ -85,14 +85,14 @@ Technical Support Consultant for Creative Computing
 * Support internally developed accountancy package
 
 ### February 2004 – January 2006 (casual employment)
-Customer Service Representative for DigiPlus
+Customer Service Representative for DigiPlus, Sydney
 
 * Assist customers with enquires (whilst speaking both English and Croatian)
 * Pro-active call handling, escalated calls and training new employees
 * Second level technical support (Internet Helpdesk)
 
 ### February 2002 – June 2003 (casual employment)
-Information Technology Support for Oatley Electronics
+Information Technology Support for Oatley Electronics, Sydney
 
 * Customer liaison (including sales)
 * Internal IT advisory as well as online auction coordination
