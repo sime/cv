@@ -14,6 +14,9 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
+### November 2014 - Current
+Frontend Engineer for 9Cookies, Berlin
+
 ### December 2013 - April 2014
 Senior Web Developer for Tinkerbox Studios, Singapore
 
