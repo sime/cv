@@ -17,6 +17,10 @@ Work History
 ### November 2014 - Current
 Frontend Engineer for 9Cookies, Berlin
 
+### April 2015 - Current
+Faxologist for Bitcoin Fax
+* Over 700 faxes and 1 Bitcoin worth of transactions in the first year
+
 ### December 2013 - April 2014
 Senior Web Developer for Tinkerbox Studios, Singapore
 
@@ -26,12 +30,6 @@ Senior Web Developer for Tinkerbox Studios, Singapore
 * Implement clean URLs for SEO
 * Reduced assets file size to increase page speed
 * Google Analytics Event tracking for conversion analysis
-
-
-### November 2013 - December 2013
-Founder for 135App, Singapore
-
-* PhoneGap and AngularJS development
 
 ### April 2013 - September 2013
 Web Developer for Stealth mode eCommerce Company, Singapore
