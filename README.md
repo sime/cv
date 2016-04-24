@@ -19,6 +19,7 @@ Frontend Engineer for 9Cookies, Berlin
 
 ### April 2015 - Current
 Faxologist for Bitcoin Fax
+
 * Over 700 faxes and 1 Bitcoin worth of transactions in the first year
 
 ### December 2013 - April 2014
