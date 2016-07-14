@@ -103,7 +103,9 @@ Information Technology Support for Oatley Electronics, Sydney
 
 Education
 ---------
-### Tertiary
+2016
+Certified ScrumMaster
+
 2008
 MySQL for Database Administrators, Cliftons, MySQL Training
 
@@ -118,11 +120,6 @@ CCNA Academy Program (Cisco Certified Network Associate), University of Wollongo
 
 2002 – 2005
 Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
-
-### Secondary
-
-2001
-Higher School Certificate, Newington College, Stanmore.
 
 
 Other/Personal
