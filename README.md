@@ -86,21 +86,6 @@ Technical Support Consultant for Creative Computing, Sydney
 * Remote configuration of services such as Samba, CUPS and Postfix
 * Support internally developed accountancy package
 
-### February 2004 – January 2006 (casual employment)
-Customer Service Representative for DigiPlus, Sydney
-
-* Assist customers with enquires (whilst speaking both English and Croatian)
-* Pro-active call handling, escalated calls and training new employees
-* Second level technical support (Internet Helpdesk)
-
-### February 2002 – June 2003 (casual employment)
-Information Technology Support for Oatley Electronics, Sydney
-
-* Customer liaison (including sales)
-* Internal IT advisory as well as online auction coordination
-* Product packaging and transport logistics
-* Office and administration duties, including data entry and order processing
-
 Education
 ---------
 2016
