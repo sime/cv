@@ -17,6 +17,10 @@ Work History
 ### November 2014 - Current
 Frontend Engineer for 9Cookies, Berlin
 
+* Angular 1 and 2 development
+* Investigating and alleviating performance bottlenecks with developer profiling tools
+* Refining acceptance criteria in a consistent manner
+
 ### April 2015 - Current
 Faxologist for Bitcoin Fax
 
