@@ -3,7 +3,7 @@ Simon Males
 
 Business Savvy Web Developer
 ----------------------------
-I'm a full stack developer. I have industry experience in online publishing, E-commerce and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practices sprinkled with a little culture. You can find me developing on the LAMP stack as well as Ruby on Rails and Sinatra. Lately I have been diving into front end development such as Foundation, AngularJS and PhoneGap. Lastly, I am approachable for cross team communications.
+I'm a full stack turned frontend developer. I have industry experience in online publishing, E-commerce and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practices sprinkled with a little culture. You can find me developing AngularJS applications, Ruby on Rails backends or busy experimenting with Bitcoin. Lastly, I am approachable for cross team communications.
 
 Location: Berlin, Germany
 
