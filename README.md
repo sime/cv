@@ -117,5 +117,6 @@ Other/Personal
 * [Foundation contributions](https://github.com/zurb/foundation/commits/master?author=sime)
 * Following developments and investing in Bitcoin
 * Represent Australia in Beach Volleyball at the Croatian World Games.
+* Baking Sourdough Bread, at least once a week
 * Rock climbing
 
