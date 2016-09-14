@@ -15,7 +15,7 @@ Work History
 ------------
 
 ### November 2014 - Current
-Frontend Engineer for 9Cookies, Berlin
+Senior Frontend Engineer for 9Cookies, Berlin
 
 * Angular 1 and 2 development
 * Investigating and alleviating performance bottlenecks with developer profiling tools
