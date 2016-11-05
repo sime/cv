@@ -3,7 +3,7 @@ Simon Males
 
 Business Savvy Web Developer
 ----------------------------
-I'm a full stack turned frontend developer. I have industry experience in online publishing, E-commerce and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practices sprinkled with a little culture. You can find me developing AngularJS applications, Ruby on Rails backends or busy experimenting with Bitcoin. Lastly, I am approachable for cross team communications.
+I'm a full stack turned frontend developer. I have industry experience in online publishing, e-commerce, and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practices sprinkled with a little culture. You can find me developing AngularJS applications, Ruby on Rails backends, or busy experimenting with Bitcoin. I am also approachable for cross team communications.
 
 Location: Berlin, Germany
 
@@ -20,6 +20,7 @@ Senior Frontend Engineer for 9Cookies, Berlin
 * Angular 1 and 2 development
 * Investigating and alleviating performance bottlenecks with developer profiling tools
 * Refining acceptance criteria in a consistent manner
+* Experimenting with a Node.js application exclusive run on AWS Lambda
 
 ### April 2015 - Current
 Faxologist for Bitcoin Fax
@@ -37,7 +38,7 @@ Senior Web Developer for Tinkerbox Studios, Singapore
 * Google Analytics Event tracking for conversion analysis
 
 ### April 2013 - September 2013
-Web Developer for Stealth mode eCommerce Company, Singapore
+Web Developer for stealth mode e-commerce company, Singapore
 
 * Developing front and backend systems using Foundation and CakePHP respectively.
 * Converting requirements to Gherkin for BDD and CI with Travis CI.
@@ -67,7 +68,7 @@ Web Developer for Buyinvite, Sydney
 ### June 2010 - October 2010
 Web Developer for Loaded Technologies, Sydney
 
-* LAMP supports and development
+* LAMP development
 * Support, maintaining and upgrading both internal and client SugarCRM installations
 * Client requirements gathering
 
@@ -75,12 +76,10 @@ Web Developer for Loaded Technologies, Sydney
 Web Support Developer for Independent Digital Media, Sydney
 
 * Developing and supporting PHP sites: homehound.com.au, PRIMPED and The Knot Australia (Rails)
-* Formatting HTML newsletters for web based and desktop clients managed by Traction
-* XHTML compliance, client side scripting via jQuery and Prototype frameworks
+* Formatting HTML newsletters for web based and mail desktop clients
+* XHTML compliance, client side scripting via jQuery
 * Supporting developers, planing deployment and developer processes
 * Web server, database and caching administration
-* Maintaining data import processes, both CSV and XML
-* Implementing and trafficking campaigns through Open AdStream (24/7 RealMedia)
 
 ### September 2005 – June 2006
 Technical Support Consultant for Creative Computing, Sydney
@@ -116,7 +115,6 @@ Other/Personal
 * [CakePHP contributions](https://github.com/cakephp/cakephp/commits/master?author=sime)
 * [Foundation contributions](https://github.com/zurb/foundation/commits/master?author=sime)
 * Following developments and investing in Bitcoin
-* Represent Australia in Beach Volleyball at the Croatian World Games.
+* Represented Australia in Beach Volleyball at the Croatian World Games.
 * Baking Sourdough Bread, at least once a week
 * Rock climbing
-
