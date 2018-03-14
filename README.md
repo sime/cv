@@ -1,9 +1,9 @@
 Simon Males
 ===========
 
-Business Savvy Web Developer
-----------------------------
-I'm a full stack turned frontend developer. I have industry experience in online publishing, e-commerce, and early stage start-ups. I can start projects from scratch or build upon and tune existing deployments. I'm happy to train colleagues and I work to implement best practices sprinkled with a little culture. You can find me developing AngularJS applications, Ruby on Rails backends, or busy experimenting with Bitcoin. I am also approachable for cross team communications.
+Business Savvy Developer
+------------------------
+I'm a developer turned team lead. Coming from a support role, to system administration, full stack development to now a leadership role I enjoy thoroughly. Working with product management, I assist the team devising solutions that can be delivered in an iterative manner. Collaborating with stakeholders about technical requirements and expected behaviours.
 
 Location: Berlin, Germany
 
@@ -15,12 +15,13 @@ Work History
 ------------
 
 ### November 2014 - Current
-Senior Frontend Engineer for 9Cookies, Berlin
+Lead Engineer for Delivery Hero, Berlin
 
-* Angular 1 and 2 development
-* Investigating and alleviating performance bottlenecks with developer profiling tools
-* Refining acceptance criteria in a consistent manner
-* Experimenting with a Node.js application exclusive run on AWS Lambda
+* Architecting services developed and maintained by the team
+* Facilitating development of the products and services
+* Exploring serverless methodologies using AWS Lambda and Node.js (TypeScript)
+* Managing 5 direct reports performance and professional development
+* Performing screenings and interviewing candidates for department positions
 
 ### April 2015 - Current
 Faxologist for Bitcoin Fax
@@ -97,14 +98,8 @@ Certified ScrumMaster
 2008
 MySQL for Database Administrators, Cliftons, MySQL Training
 
-2007
-PHP Scripting and MySQL, NewSouth Global, Learn4Life
-
 2006
 Linux Professional Institute Certified Level 1 (LPIC-1)
-
-2003
-CCNA Academy Program (Cisco Certified Network Associate), University of Wollongong Cisco Networking Academy.
 
 2002 – 2005
 Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
@@ -116,5 +111,5 @@ Other/Personal
 * [Foundation contributions](https://github.com/zurb/foundation/commits/master?author=sime)
 * Following developments and investing in Bitcoin
 * Represented Australia in Beach Volleyball at the Croatian World Games.
-* Baking Sourdough Bread, at least once a week
+* Regularly baking Sourdough bread (yum)
 * Rock climbing
