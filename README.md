@@ -109,9 +109,7 @@ Bachelor of Information and Communication Technology, Network Management (Major 
 
 Other/Personal
 --------------
-* [CakePHP contributions](https://github.com/cakephp/cakephp/commits/master?author=sime)
-* [Foundation contributions](https://github.com/zurb/foundation/commits/master?author=sime)
+* [Serverless contributions](https://github.com/serverless/serverless/commits/master?author=sime)
 * Following developments and investing in Bitcoin
 * Represented Australia in Beach Volleyball at the Croatian World Games.
 * Regularly baking Sourdough bread (yum)
-* Rock climbing
