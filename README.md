@@ -3,7 +3,7 @@ Simon Males
 
 Business Savvy Developer
 ------------------------
-I'm a developer turned team lead. Coming from a support role, to system administration, full stack development to now a leadership role I enjoy thoroughly. Working with product management, I assist the team devising solutions that can be delivered in an iterative manner. Collaborating with stakeholders about technical requirements and expected behaviours.
+I'm a developer turned team lead. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I assist the team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected behaviours, always keeping my team's individual and shared needs in scope.
 
 Location: Berlin, Germany
 
@@ -17,11 +17,11 @@ Work History
 ### November 2014 - Current
 Lead Engineer for Delivery Hero, Berlin
 
-* Architecting services developed and maintained by the team
-* Facilitating development of the products and services
+* Architecting services developed and maintained by my team
+* Facilitating development of Delivery Hero products and services
 * Exploring serverless methodologies using AWS Lambda and Node.js (TypeScript)
-* Managing 5 direct reports performance and professional development
-* Performing screenings and interviewing candidates for department positions
+* Managing five direct reports, including their performance and professional development
+* Performing screenings and interviewing candidates for departmental positions across the company
 
 ### April 2015 - Current
 Faxologist for Bitcoin Fax
@@ -41,10 +41,10 @@ Senior Web Developer for Tinkerbox Studios, Singapore
 ### April 2013 - September 2013
 Web Developer for stealth mode e-commerce company, Singapore
 
-* Developing front and backend systems using Foundation and CakePHP respectively.
-* Converting requirements to Gherkin for BDD and CI with Travis CI.
-* Responsive CSS for three widths: 320px, 768px and 1024px.
-* Handlebars.js for templating real time calculations during checkout.
+* Developing front and backend systems using Foundation and CakePHP respectively
+* Converting requirements to Gherkin for BDD and CI with Travis CI
+* Responsive CSS for three widths: 320px, 768px and 1024px
+* Handlebars.js for templating real time calculations during checkout
 * Automated deployments with Capistrano
 
 ### January 2012 - March 2013
