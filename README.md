@@ -26,6 +26,8 @@ Lead Software Engineer for Delivery Hero, Berlin
 ### April 2015 - Current
 Faxologist for Bitcoin Fax
 
+Personal project that allows users to send faxes and pay for them with Bitcoin. My concept is from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
+
 * Over 700 faxes and 1 Bitcoin worth of transactions in the first year
 
 ### December 2013 - April 2014
