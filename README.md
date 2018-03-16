@@ -95,7 +95,7 @@ Technical Support Consultant for Creative Computing, Sydney
 Education
 ---------
 2016
-Certified ScrumMaster
+Certified ScrumMaster, Scrum Alliance
 
 2008
 MySQL for Database Administrators, Cliftons, MySQL Training
