@@ -15,7 +15,7 @@ Work History
 ------------
 
 ### November 2014 - Current
-Lead Engineer for Delivery Hero, Berlin
+Lead Software Engineer for Delivery Hero, Berlin
 
 * Architecting services developed and maintained by my team
 * Facilitating development of Delivery Hero products and services
