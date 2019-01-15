@@ -110,6 +110,6 @@ Bachelor of Information and Communication Technology, Network Management (Major 
 Other/Personal
 --------------
 * [Serverless contributions](https://github.com/serverless/serverless/commits/master?author=sime)
+* Bouldering
 * Following developments and investing in Bitcoin
 * Represented Australia in Beach Volleyball at the Croatian World Games.
-* Regularly baking Sourdough bread (yum)
