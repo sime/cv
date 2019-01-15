@@ -3,7 +3,7 @@ Simon Males
 
 Business Savvy Developer
 ------------------------
-I'm a developer turned team lead. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I assist the team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected behaviours, always keeping my team's individual and shared needs in scope.
+I'm a developer turned engineering manager. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I assist the team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected behaviours, always keeping my team's individual and shared needs in scope.
 
 Location: Berlin, Germany
 
@@ -15,7 +15,7 @@ Work History
 ------------
 
 ### November 2014 - Current
-Lead Software Engineer for Delivery Hero, Berlin
+Senior Manager, Software Engineering for Delivery Hero, Berlin
 
 * Architecting services developed and maintained by my team
 * Facilitating development of Delivery Hero products and services
