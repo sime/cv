@@ -17,7 +17,7 @@ Work History
 ### November 2014 - Current
 Senior Manager, Software Engineering for Delivery Hero, Berlin
 
-* Architecting services developed and maintained by my team
+* Architecting the infrastructure for the Restaurant Portal product
 * Facilitating development of Delivery Hero products and services
 * Exploring serverless methodologies using AWS Lambda and Node.js (TypeScript)
 * Managing five direct reports, including their performance and professional development
