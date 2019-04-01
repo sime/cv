@@ -20,7 +20,7 @@ Senior Manager, Software Engineering for Delivery Hero, Berlin
 * Architecting the infrastructure for the Restaurant Portal product
 * Facilitating development of Delivery Hero products and services
 * Exploring serverless methodologies using AWS Lambda and Node.js (TypeScript)
-* Managing five direct reports, including their performance and professional development
+* Managing six direct reports, including their performance and professional development
 * Performing screenings and interviewing candidates for departmental positions across the company
 
 ### April 2015 - Current
