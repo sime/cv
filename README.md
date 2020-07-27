@@ -1,9 +1,10 @@
 Simon Males
+
 ===========
 
 Business Savvy Developer
 ------------------------
-I'm a developer turned engineering manager. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I assist the team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected behaviours, always keeping my team's individual and shared needs in scope.
+I'm a developer turned engineering manager. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I guide the engineering team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected user behaviours, onboarding teams to an internally developed SDK and keeping the team's individual and shared needs in scope.
 
 Location: Berlin, Germany
 
@@ -14,16 +15,17 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
-### November 2014 - Current
+### November 2014 - October 2020
 Senior Manager, Software Engineering for Delivery Hero, Berlin
 
-* Architecting the infrastructure for the Restaurant Portal product
-* Facilitating development of Delivery Hero products and services
-* Exploring serverless methodologies using AWS Lambda and Node.js (TypeScript)
+* Architecting the infrastructure for the Restaurant Portal product and internal plugin SDK
+* Facilitating SCRUM ceremonies for the product team: stand-up, grooming, review and planning
+* Extensively using AWS serverless technologies: Lambda, SQS, SNS and DynamoDB
 * Managing six direct reports, including their performance and professional development
 * Performing screenings and interviewing candidates for departmental positions across the company
+* Soliciting SDK and component library feedback from remote sister teams (Dubai, Singapore and Montevideo)
 
-### April 2015 - Current
+### April 2015 - November 2018
 Faxologist for Bitcoin Fax
 
 Personal project that allows users to send faxes and pay for them with Bitcoin. My concept is that from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
@@ -109,7 +111,6 @@ Bachelor of Information and Communication Technology, Network Management (Major 
 
 Other/Personal
 --------------
-* [Serverless contributions](https://github.com/serverless/serverless/commits/master?author=sime)
-* Bouldering
-* Following developments and investing in Bitcoin
+* [Serverless documentation contributions](https://github.com/serverless/serverless/commits/master?author=sime)
+* Bouldering and Beach Volleyball
 * Represented Australia in Beach Volleyball at the Croatian World Games.
