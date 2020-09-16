@@ -21,7 +21,7 @@ Senior Manager, Software Engineering for Delivery Hero, Berlin
 * Facilitating SCRUM ceremonies for the product team: stand-up, grooming, review and planning
 * Extensively using AWS serverless technologies: Lambda, SQS, SNS and DynamoDB
 * Managing six direct reports, including their performance and professional development
-* Performing screenings and interviewing candidates for departmental positions across the company
+* Performing screenings and interviewing candidates for positions across the company
 * Soliciting SDK and component library feedback from remote sister teams (Dubai, Singapore and Montevideo)
 
 ### April 2015 - November 2018
