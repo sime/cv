@@ -112,4 +112,3 @@ Other/Personal
 --------------
 * [Serverless documentation contributions.](https://github.com/serverless/serverless/commits/master?author=sime)
 * Bouldering and Beach Volleyball.
-* Represented Australia in Beach Volleyball at the Croatian World Games.
