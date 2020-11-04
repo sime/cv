@@ -14,6 +14,12 @@ Personal: [http://sime.net.au/](http://sime.net.au)
 Work History
 ------------
 
+### October 2020 - Current
+Co-Founder, Bojagi, Berlin
+
+* Focusing on discovering product market fit
+* Conducting user interviews and product testing
+
 ### November 2014 - October 2020
 Senior Manager, Software Engineering for Delivery Hero, Berlin
 
