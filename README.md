@@ -9,7 +9,7 @@ Location: Berlin, Germany
 
 LinkedIn: [https://www.linkedin.com/in/simonmales/](https://www.linkedin.com/in/simonmales/)
 
-Personal: [http://sime.net.au/](http://sime.net.au)
+Personal: [https://sime.net.au/](https://sime.net.au)
 
 Work History
 ------------
