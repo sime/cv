@@ -32,7 +32,7 @@ Senior Software Engineering Manager, Delivery Hero, Berlin
 * Soliciting SDK and component library feedback from remote sister teams (Dubai, Singapore and Montevideo).
 
 ### April 2015 - November 2018
-Faxologist, [Bitcoin Fax](https://bitcoinfax.net)
+Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
 
 Personal project that allows users to send faxes and pay for them with Bitcoin. My concept is that from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
 
