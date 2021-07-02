@@ -15,10 +15,11 @@ Work History
 ------------
 
 ### October 2020 - Current
-Co-Founder, Bojagi, Berlin
+Co-Founder, [Bojagi](https://bojagi.io), Berlin
 
 * Focusing on discovering product market fit
 * Conducting user interviews and product testing
+* Outbound sales and pre-sales
 
 ### November 2014 - October 2020
 Senior Manager, Software Engineering for Delivery Hero, Berlin
