@@ -22,7 +22,7 @@ Co-Founder, [Bojagi](https://bojagi.io), Berlin
 * Outbound sales and pre-sales
 
 ### November 2014 - October 2020
-Senior Manager, Software Engineering for Delivery Hero, Berlin
+Senior Software Engineering Manager, Delivery Hero, Berlin
 
 * Architecting the infrastructure for the Restaurant Portal product and internal plugin SDK.
 * Facilitating SCRUM ceremonies for the product team: stand-up, grooming, review and planning.
@@ -32,14 +32,14 @@ Senior Manager, Software Engineering for Delivery Hero, Berlin
 * Soliciting SDK and component library feedback from remote sister teams (Dubai, Singapore and Montevideo).
 
 ### April 2015 - November 2018
-Faxologist for Bitcoin Fax
+Faxologist, [Bitcoin Fax](https://bitcoinfax.net)
 
 Personal project that allows users to send faxes and pay for them with Bitcoin. My concept is that from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
 
 * Over 700 faxes and 1 Bitcoin worth of transactions in the first year.
 
 ### December 2013 - April 2014
-Senior Web Developer for Tinkerbox Studios, Singapore
+Senior Web Developer, Tinkerbox Studios, Singapore
 
 * TDD with RSpec.
 * AJAX compatible site scraper.
@@ -58,7 +58,7 @@ Web Developer for stealth mode e-commerce company, Singapore
 * Automated deployments with Capistrano.
 
 ### January 2012 - March 2013
-Platform Engineer for Pollenizer, Sydney and Singapore
+Platform Engineer, Pollenizer, Sydney and Singapore
 
 * Developer and CTO for Coachy, Tiwala, Accruto start-ups.
 * Developing from Product Manager provided scenarios.
@@ -68,7 +68,7 @@ Platform Engineer for Pollenizer, Sydney and Singapore
 * Linux System Administration for existing Pollenizer resources.
 
 ### October 2010 - December 2011
-Web Developer for Buyinvite, Sydney
+Web Developer, Buyinvite, Sydney
 
 * CakePHP development of high transacting eCommerce site.
 * Resolving process inefficiencies by directly coworking with all departments.
@@ -77,14 +77,14 @@ Web Developer for Buyinvite, Sydney
 * MySQL query tuning.
 
 ### June 2010 - October 2010
-Web Developer for Loaded Technologies, Sydney
+Web Developer, Loaded Technologies, Sydney
 
 * LAMP development.
 * Support, maintaining and upgrading both internal and client SugarCRM installations.
 * Client requirements gathering.
 
 ### November 2006 – June 2010
-Web Support Developer for Independent Digital Media, Sydney
+Web Support Developer, Independent Digital Media, Sydney
 
 * Developing and supporting PHP sites: homehound.com.au, PRIMPED and The Knot Australia (Rails).
 * Formatting HTML newsletters for web based and mail desktop clients.
@@ -93,7 +93,7 @@ Web Support Developer for Independent Digital Media, Sydney
 * Web server, database and caching administration.
 
 ### September 2005 – June 2006
-Technical Support Consultant for Creative Computing, Sydney
+Technical Support, Creative Computing, Sydney
 
 * Successfully deploy and maintain Linux based Point-Of-Sale servers and clients.
 * Establish pre-sale relationships with clients prior to deployment.
