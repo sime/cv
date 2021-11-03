@@ -5,7 +5,7 @@ Business Savvy Developer
 ------------------------
 I'm a developer turned engineering manager. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I guide the engineering team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected user behaviours, onboarding teams to an internally developed SDK and keeping the team's individual and shared needs in scope.
 
-Location: Berlin, Germany
+Location: Prague, Czech Republic
 
 LinkedIn: [https://www.linkedin.com/in/simonmales/](https://www.linkedin.com/in/simonmales/)
 
