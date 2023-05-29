@@ -14,6 +14,9 @@ Personal: [https://sime.net.au/](https://sime.net.au)
 Work History
 ------------
 
+### Febuary 2022 - Current
+Product Manager, [Trezor](https://trezor.io), Prague
+
 ### October 2020 - Current
 Co-Founder, [Bojagi](https://bojagi.io), Berlin
 
