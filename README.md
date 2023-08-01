@@ -17,7 +17,7 @@ Work History
 ### Febuary 2022 - Current
 Product Manager, [Trezor](https://trezor.io), Prague
 
-### October 2020 - Current
+### October 2020 - Febuary 2022
 Co-Founder, [Bojagi](https://bojagi.io), Berlin
 
 * Focusing on discovering product market fit
