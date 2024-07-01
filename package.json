@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "md-to-pdf README.md"
+  }
+}

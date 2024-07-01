@@ -3,7 +3,7 @@ Simon Males
 
 Head of Product
 ---------------
-I'm a developer → engineering manager → product manager → head of product person! I guide the product orginsation by fielding the inputs to discover appropriate solutions for our users that are viable for the business. Self-custody is hard and introduces a paradigm shift in the mental model for the convenience-seeking (spoiled?) user.
+I'm a developer → engineering manager → product manager → head of product person! I guide the product orginsation by fielding the inputs to discover appropriate solutions for our users that are viable for the business. Self-custody is hard and introduces a paradigm shift in the mental model for the convenience-seeking user.
 
 Location: Prague, Czech Republic
 
