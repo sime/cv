@@ -1,9 +1,9 @@
 Simon Males
 ===========
 
-Business Savvy Developer
-------------------------
-I'm a developer turned engineering manager. Coming from a support role, to system administration, full stack development, and now into a leadership role I enjoy thoroughly. Working with product management, I guide the engineering team to devise solutions that can be delivered in an iterative manner. You'll find me collaborating with stakeholders on technical requirements and expected user behaviours, onboarding teams to an internally developed SDK and keeping the team's individual and shared needs in scope.
+Head of Product
+---------------
+I'm a developer → engineering manager → product manager → head of product person! I guide the product orginsation by fielding the inputs to discover appropriate solutions for our users that are viable for the business. Self-custody is hard and introduces a paradigm shift in the mental model for the convenience-seeking (spoiled?) user.
 
 Location: Prague, Czech Republic
 
@@ -15,7 +15,11 @@ Work History
 ------------
 
 ### Febuary 2022 - Current
-Product Manager, [Trezor](https://trezor.io), Prague
+Head of Product Software, [Trezor](https://trezor.io), Prague
+
+* Aligning the product organisation with business goals and aligning roadmap developments with specific KPIs
+* Developing the competencies of product managers
+* Facilitating the communication of product strategies and initiatives with the wider organisation
 
 ### October 2020 - Febuary 2022
 Co-Founder, [Bojagi](https://bojagi.io), Berlin
@@ -34,7 +38,7 @@ Senior Software Engineering Manager, Delivery Hero, Berlin
 * Performing screenings and interviewing candidates for positions across the company.
 * Soliciting SDK and component library feedback from remote sister teams (Dubai, Singapore and Montevideo).
 
-### April 2015 - November 2018
+### April 2015 - Current
 Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
 
 Personal project that allows users to send faxes and pay for them with Bitcoin. My concept is that from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
