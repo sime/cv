@@ -3,7 +3,7 @@ Simon Males
 
 Head of Product
 ---------------
-I'm a developer → engineering manager → product manager → head of product person! I guide the product orginsation by fielding the inputs to discover appropriate solutions for our users that are viable for the business. Self-custody is hard and introduces a paradigm shift in the mental model for the convenience-seeking user.
+I'm a developer → engineering manager → product manager → head of product person! I guide the product organisation by fielding the inputs to discover appropriate solutions for our users that are viable for the business. Self-custody is hard and introduces a paradigm shift in the mental model for the convenience-seeking user.
 
 Location: Prague, Czech Republic
 
@@ -14,17 +14,17 @@ Personal: [https://sime.net.au/](https://sime.net.au)
 Work History
 ------------
 
-### Febuary 2022 - December 2024
+### February 2022 - December 2024
 Head of Product Software, [Trezor](https://trezor.io), Prague
 
 * Aligning the product organisation with business goals and aligning roadmap developments with specific KPIs
 * Developing the competencies of product managers
 * Facilitating the communication of product strategies and initiatives with the wider organisation
 
-### October 2020 - Febuary 2022
+### October 2020 - February 2022
 Co-Founder, [Bojagi](https://bojagi.io), Berlin
 
-* Focusing on discovering product market fit
+* Focusing on discovering product-market fit
 * Conducting user interviews and product testing
 * Outbound sales and pre-sales
 
@@ -42,7 +42,7 @@ Senior Software Engineering Manager, Delivery Hero, Berlin
 Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
 
 Personal project that allows users to send faxes and pay for them with Bitcoin.
-* Opporunity: from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
+* Opportunity: from time to time, digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
 * From December 2021 Bitcoin Fax switched to only supporting Bitcoin transaction on the lightning network.
 
 ### December 2013 - April 2014
@@ -61,7 +61,7 @@ Web Developer for stealth mode e-commerce company, Singapore
 * Developing front and backend systems using Foundation and CakePHP respectively.
 * Converting requirements to Gherkin for BDD and CI with Travis CI.
 * Responsive CSS for three widths: 320px, 768px and 1024px.
-* Handlebars.js for templating real time calculations during checkout.
+* Handlebars.js for templating real-time calculations during checkout.
 * Automated deployments with Capistrano.
 
 ### January 2012 - March 2013
@@ -79,7 +79,7 @@ Web Developer, Buyinvite, Sydney
 
 * CakePHP development of high transacting eCommerce site.
 * Resolving process inefficiencies by directly coworking with all departments.
-* Rearchitected infrastructure, halving the number of servers.
+* Re-architected infrastructure, halving the number of servers.
 * Reducing page load times.
 * MySQL query tuning.
 
@@ -103,7 +103,7 @@ Web Developer, Independent Digital Media, Sydney
 Technical Support, Creative Computing, Sydney
 
 * Successfully deploy and maintain Linux based Point-Of-Sale servers and clients.
-* Establish pre-sale relationships with clients prior to deployment.
+* Establish pre-sale relationships with clients before deployment.
 * Remote configuration of services such as Samba, CUPS and Postfix.
 * Support internally developed accountancy package.
 
