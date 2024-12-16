@@ -14,7 +14,7 @@ Personal: [https://sime.net.au/](https://sime.net.au)
 Work History
 ------------
 
-### Febuary 2022 - Current
+### Febuary 2022 - December 2024
 Head of Product Software, [Trezor](https://trezor.io), Prague
 
 * Aligning the product organisation with business goals and aligning roadmap developments with specific KPIs
@@ -41,9 +41,9 @@ Senior Software Engineering Manager, Delivery Hero, Berlin
 ### April 2015 - Current
 Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
 
-Personal project that allows users to send faxes and pay for them with Bitcoin. My concept is that from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
-
-* Over 700 faxes and 1 Bitcoin worth of transactions in the first year.
+Personal project that allows users to send faxes and pay for them with Bitcoin.
+* Opporunity: from time to time digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
+* From December 2021 Bitcoin Fax switched to only supporting Bitcoin transaction on the lightning network.
 
 ### December 2013 - April 2014
 Senior Web Developer, Tinkerbox Studios, Singapore
@@ -71,7 +71,7 @@ Platform Engineer, Pollenizer, Sydney and Singapore
 * Developing from Product Manager provided scenarios.
 * Practise lean startup methodologies.
 * Relocated to Singapore in October 2012.
-* Using CakePHP (2012) and Ruby on Rails (2013) frameworks.
+* Using CakePHP and Ruby on Rails frameworks.
 * Linux System Administration for existing Pollenizer resources.
 
 ### October 2010 - December 2011
@@ -91,7 +91,7 @@ Web Developer, Loaded Technologies, Sydney
 * Client requirements gathering.
 
 ### November 2006 – June 2010
-Web Support Developer, Independent Digital Media, Sydney
+Web Developer, Independent Digital Media, Sydney
 
 * Developing and supporting PHP sites: homehound.com.au, PRIMPED and The Knot Australia (Rails).
 * Formatting HTML newsletters for web based and mail desktop clients.
@@ -121,8 +121,6 @@ Linux Professional Institute Certified Level 1 (LPIC-1)
 2002 – 2005
 Bachelor of Information and Communication Technology, Network Management (Major Study), University of Wollongong.
 
-
 Other/Personal
 --------------
-* [Serverless documentation contributions.](https://github.com/serverless/serverless/commits/master?author=sime)
-* Bouldering and Beach Volleyball.
+* Rock climbing
