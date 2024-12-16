@@ -43,7 +43,7 @@ Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
 
 Personal project that allows users to send faxes and pay for them with Bitcoin.
 * Opportunity: from time to time, digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
-* From December 2021 Bitcoin Fax switched to only supporting Bitcoin transaction on the lightning network.
+* From December 2021 switched from on-chain to only supporting Bitcoin transactions on the Lightning Network.
 
 ### December 2013 - April 2014
 Senior Web Developer, Tinkerbox Studios, Singapore
@@ -69,7 +69,7 @@ Platform Engineer, Pollenizer, Sydney and Singapore
 
 * Developer and CTO for Coachy, Tiwala, Accruto start-ups.
 * Developing from Product Manager provided scenarios.
-* Practise lean startup methodologies.
+* Practising lean startup methodologies.
 * Relocated to Singapore in October 2012.
 * Using CakePHP and Ruby on Rails frameworks.
 * Linux System Administration for existing Pollenizer resources.
@@ -96,7 +96,7 @@ Web Developer, Independent Digital Media, Sydney
 * Developing and supporting PHP sites: homehound.com.au, PRIMPED and The Knot Australia (Rails).
 * Formatting HTML newsletters for web based and mail desktop clients.
 * XHTML compliance, client side scripting via jQuery.
-* Supporting developers, planing deployment and developer processes.
+* Supporting developers, planning deployment and developer processes.
 * Web server, database and caching administration.
 
 ### September 2005 – June 2006
