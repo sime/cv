@@ -14,6 +14,13 @@ Personal: [https://sime.net.au/](https://sime.net.au)
 Work History
 ------------
 
+### April 2015 - Current
+Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
+
+Personal project that allows users to send faxes and pay for them with Bitcoin.
+* Opportunity: from time to time, digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
+* From December 2021 switched from on-chain to only supporting Bitcoin transactions on the Lightning Network.
+
 ### February 2022 - December 2024
 Head of Product Software, [Trezor](https://trezor.io), Prague
 
@@ -37,13 +44,6 @@ Senior Software Engineering Manager, Delivery Hero, Berlin
 * Managing six direct reports, including their performance and professional development.
 * Performing screenings and interviewing candidates for positions across the company.
 * Soliciting SDK and component library feedback from remote sister teams (Dubai, Singapore and Montevideo).
-
-### April 2015 - Current
-Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
-
-Personal project that allows users to send faxes and pay for them with Bitcoin.
-* Opportunity: from time to time, digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
-* From December 2021 switched from on-chain to only supporting Bitcoin transactions on the Lightning Network.
 
 ### December 2013 - April 2014
 Senior Web Developer, Tinkerbox Studios, Singapore
