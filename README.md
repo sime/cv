@@ -14,19 +14,19 @@ Personal: [https://sime.net.au/](https://sime.net.au)
 Work History
 ------------
 
-### April 2015 - Current
-Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
-
-Personal project that allows users to send faxes and pay for them with Bitcoin.
-* Opportunity: from time to time, digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
-* From December 2021 switched from on-chain to only supporting Bitcoin transactions on the Lightning Network.
-
 ### February 2022 - December 2024
 Head of Product Software, [Trezor](https://trezor.io), Prague
 
 * Aligning the product organisation with business goals and aligning roadmap developments with specific KPIs
 * Developing the competencies of product managers
 * Facilitating the communication of product strategies and initiatives with the wider organisation
+
+### April 2015 - Current
+Faxologist, [Bitcoin Fax](https://bitcoinfax.net), Berlin
+
+Personal project that allows users to send faxes and pay for them with Bitcoin.
+* Opportunity: from time to time, digital natives need to send a fax and Bitcoin doesn't suffer from merchant processing fees on small transactions.
+* From December 2021 switched from on-chain to only supporting Bitcoin transactions on the Lightning Network.
 
 ### October 2020 - February 2022
 Co-Founder, [Bojagi](https://bojagi.io), Berlin
